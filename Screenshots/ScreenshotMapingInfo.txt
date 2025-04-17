@@ -1,0 +1,6 @@
+File Name                           | Linked Test Case ID          | Issue
+TC_04_LeadValidationError.png       | TC_04                        | Lead Validation Error
+TC_13_InvalidEmail.png              | TC_13                        | Invalid Email Saved (Bug)
+TC_19_DuplicateLead.png             | TC_19                        | Duplicate Entry Not Blocked
+TC_25_AssignedToReset.png           | TC_25                        | Assigned To Reset Unexpectedly
+TC_26_DeleteLeadNoMsg.png           | TC_26                        | Lead Deleted Without Message
